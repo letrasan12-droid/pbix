@@ -1,0 +1,20 @@
+## Descrição
+_Explique o que este PR faz._
+
+## Tipo de mudança
+- [ ] feat (nova funcionalidade)
+- [ ] fix (correção de bug)
+- [ ] docs (documentação)
+- [ ] refactor (refatoração)
+- [ ] chore (infra/rotina)
+- [ ] test (testes)
+
+## Checklist
+- [ ] Atualizei a documentação (README/aba “Entendendo o Desafio”)
+- [ ] Segui os padrões de commit
+- [ ] Cobri cenários principais
+
+## Screenshots (se aplicável)
+
+## Issue relacionada
+_Fixe a issue: closes #N_
