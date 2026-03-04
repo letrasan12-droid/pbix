@@ -1,0 +1,27 @@
+---
+name: "Bug report"
+about: Reportar um problema no projeto
+labels: bug
+---
+
+## Descrição
+Descreva o bug de forma clara e concisa.
+
+## Passos para reproduzir
+1. 
+2. 
+3. 
+
+## Comportamento atual
+_O que acontece hoje?_
+
+## Comportamento esperado
+_O que você esperava que acontecesse?_
+
+## Evidências
+_Logs, prints, versão do Power BI, etc._
+
+## Ambiente
+- SO:
+- Versão do Power BI:
+``
